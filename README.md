@@ -1,1 +1,1 @@
-this is my first project to learn lsolidity.
+this is my first project to learn solidity.
